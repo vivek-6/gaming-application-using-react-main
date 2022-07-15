@@ -1,0 +1,23 @@
+const alpha = [
+  "Nauseous",
+  "Dilate",
+  "Indict",
+  "Liquefy",
+  "Wednesday",
+  "Sherbet",
+  "Bologna",
+  "Playwright",
+  "Fuchsia",
+  "Minuscule",
+  "Ingenious",
+  "Sacrilegious",
+  "Accommodate",
+  "Orangutan",
+  "Mischievous",
+  "Gubernatorial",
+  "Acquiesce",
+  "Conscientious",
+  "Paraphernalia",
+  "Onomatopoeia",
+];
+export default alpha;
